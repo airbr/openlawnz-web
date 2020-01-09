@@ -50,7 +50,7 @@
 		"prettier": "^1.18.2",
 		"react-hot-loader": "^4.12.13",
 		"sass-loader": "^8.0.0",
-		"style-loader": "^1.0.0",
+		"style-loader": "^1.1.2",
 		"svg-react-loader": "^0.4.6",
 		"url-loader": "^2.1.0",
 		"webpack": "^4.40.2",
